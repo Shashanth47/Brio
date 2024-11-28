@@ -1,10 +1,8 @@
+# Brio
+Brio is a smart alarm that calculates your optimal wake-up time by analyzing preparation time and real-time traffic between home and office. Input your arrival time and prep duration, and Brio ensures you'll reach work on time without unnecessary early wake-ups by continuously monitoring traffic patterns.
 ![Brio (2)](https://github.com/user-attachments/assets/2aff2b00-87ea-4bc2-8dd4-e5d8441419f9)
 
 https://github.com/user-attachments/assets/620bcdc7-bbe9-47c1-9ad5-e67817feb6c8
-
-
-# Brio
-Brio is a smart alarm that calculates your optimal wake-up time by analyzing preparation time and real-time traffic between home and office. Input your arrival time and prep duration, and Brio ensures you'll reach work on time without unnecessary early wake-ups by continuously monitoring traffic patterns.
 
 # Never Be Late Again: Meet Brio, Your Intelligent Wake-Up Partner
 
